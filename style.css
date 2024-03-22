@@ -16,6 +16,7 @@ div {
 }
 
 img {
+    max-width: 100%;
     width: 600px;
     border-radius: 5px;
     box-shadow: 1px 1px 1px rgb(63, 62, 62);
